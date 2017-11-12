@@ -11,23 +11,48 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Request aggregation, caching, and forwarding strategies for improving large climate data distribution with NDN: a case study</title>
+      <link>/publication/shannigrahi2017request/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/shannigrahi2017request/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Managing scientific data with named data networking</title>
+      <link>/publication/fan2015managing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/fan2015managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Named Data Networking in Climate Research and HEP Applications</title>
+      <link>/publication/shannigrahi2015named/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2015named/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting climate research using named data networking</title>
+      <link>/publication/olschanowsky2014supporting/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/olschanowsky2014supporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast BGP convergence following link/router failure</title>
+      <link>/publication/ray2010fast/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ray2010fast/</guid>
+      <description></description>
     </item>
     
   </channel>
