@@ -11,11 +11,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
+      <link>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> NDN-Android</title>
+      <link>/talk/ndn-android/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/ndn-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Revisiting Traceroute for NDN</title>
+      <link>/talk/revisiting-traceroute-for-ndn/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/revisiting-traceroute-for-ndn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Named Data Networking in Scientific Applications</title>
+      <link>/talk/named-data-networking-in-scientific-applications/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/named-data-networking-in-scientific-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Request aggregation, caching, and forwarding strategies for improving large climate data distribution with NDN: a case study</title>
       <link>/publication/shannigrahi2017request/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/shannigrahi2017request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Applying NDN to large scientific data</title>
+      <link>/talk/applying-ndn-to-large-scientific-data/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/applying-ndn-to-large-scientific-data/</guid>
       <description></description>
     </item>
     
@@ -1086,82 +1131,20 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
     </item>
     
     <item>
-      <title>Managing scientific data with named data networking</title>
-      <link>/publication/fan2015managing/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title> Scientific Data Applications in NDN</title>
+      <link>/talk/scientific-data-applications-in-ndn/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
       
-      <guid>/publication/fan2015managing/</guid>
+      <guid>/talk/scientific-data-applications-in-ndn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Named Data Networking in Climate Research and HEP Applications</title>
-      <link>/publication/shannigrahi2015named/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title> Supporting Scientific Applications with NDN</title>
+      <link>/talk/supporting-scientific-applications-with-ndn/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 -0500</pubDate>
       
-      <guid>/publication/shannigrahi2015named/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll to Hugo</title>
-      <link>/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0500</pubDate>
-      
-      <guid>/post/migrate-from-jekyll/</guid>
-      <description>
-
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;should become&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ static/
-        ▾ images/
-            logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;fix-content&#34;&gt;Fix content&lt;/h2&gt;
-
-&lt;p&gt;Depending on the amount of customization that was done for each post in Jekyll, this step will require more or less effort. There are no hard and fast rules here except that &lt;code&gt;hugo server --watch&lt;/code&gt; and the Hugo Academic example site are your friends. Test your changes and fix errors as needed.&lt;/p&gt;
-
-&lt;h2 id=&#34;publish&#34;&gt;Publish&lt;/h2&gt;
-
-&lt;p&gt;The default is for Jekyll to publish the website to a &lt;code&gt;_site&lt;/code&gt; directory, whereas Hugo publishes to a &lt;code&gt;public&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
-
-&lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supporting climate research using named data networking</title>
-      <link>/publication/olschanowsky2014supporting/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/olschanowsky2014supporting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast BGP convergence following link/router failure</title>
-      <link>/publication/ray2010fast/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ray2010fast/</guid>
+      <guid>/talk/supporting-scientific-applications-with-ndn/</guid>
       <description></description>
     </item>
     
