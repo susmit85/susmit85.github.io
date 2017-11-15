@@ -5,42 +5,6 @@
     
     <url>
     
-      <loc>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</loc>
-      <lastmod>2017-09-29T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/ndn-android/</loc>
-      <lastmod>2017-09-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/revisiting-traceroute-for-ndn/</loc>
-      <lastmod>2017-05-17T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/named-data-networking-in-scientific-applications/</loc>
-      <lastmod>2017-03-23T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
@@ -68,15 +32,6 @@
     
     <url>
     
-      <loc>/talk/test/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/shannigrahi2017request/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -86,8 +41,8 @@
     
     <url>
     
-      <loc>/talk/applying-ndn-to-large-scientific-data/</loc>
-      <lastmod>2016-11-16T00:00:00-06:00</lastmod>
+      <loc>/project/ndn/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -149,51 +104,6 @@
     
     <url>
     
-      <loc>/talk/scientific-data-applications-in-ndn/</loc>
-      <lastmod>2016-03-02T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/supporting-scientific-applications-with-ndn/</loc>
-      <lastmod>2015-10-17T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/managing-scientific-data-with-named-data-networking/</loc>
-      <lastmod>2015-10-15T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/managing-scientific-data-with-ndn/</loc>
-      <lastmod>2015-09-28T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/ndn-for-scientific-data-applications/</loc>
-      <lastmod>2015-08-12T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/fan2015managing/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -205,33 +115,6 @@
     
       <loc>/publication/shannigrahi2015named/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/ndn-atmos/</loc>
-      <lastmod>2014-09-09T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/supporting-climate-applications-over-named-data-networking-ndn/</loc>
-      <lastmod>2014-08-12T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/ndn-fuse/</loc>
-      <lastmod>2014-04-07T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -257,53 +140,8 @@
     
     <url>
     
-      <loc>/talk/ndn-for-scientific-data/</loc>
-      <lastmod>2013-08-12T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/ndn-traceroute/</loc>
-      <lastmod>2012-10-12T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/benefit-of-ccn-for-large-data/</loc>
-      <lastmod>2012-06-07T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/fedora-medical-spin-in-search-of-a-comprehensive-solution-for-healthcare-community/</loc>
-      <lastmod>2010-02-04T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/ray2010fast/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/redrawing-and-rewriting-the-fedora-distribution-process/</loc>
-      <lastmod>2009-12-02T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -372,16 +210,6 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-09-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
