@@ -33,5 +33,15 @@ retrieval, and publication access control.&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>NDN-Science Testbed</title>
+      <link>/project/ndn-testbed/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ndn-testbed/</guid>
+      <description>&lt;p&gt;Using a NSF grant, we created a 8 node testbed that helps us better understand the challenges in large data applications. It reaches locations such as Atmospheric and Computer Science Departments at Colorado State University, LBNL, NWCS, and CalTech. The testbed was deployed with the support of ESnet. Connectivity is via 10G links with high-end machines that with 40 cores each, 128GB RAM and 48TB disk space. The testbed is also able to deploy on-demand end-to-end paths using OSCARS. The machines cumulatively host over 50TB of climate data and 10 TB Physics data that are used for research, experimentation and development of climate applications. The machines are run latest version of Fedora and have the latest NDN software installed. We are looking forward to adding several sites to the testbed, both inside and outside the US.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

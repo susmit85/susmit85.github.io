@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Susmit Shannigrahi</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
       <link>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title> NDN-Android</title>
       <link>/talk/ndn-android/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-android/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title> Revisiting Traceroute for NDN</title>
       <link>/talk/revisiting-traceroute-for-ndn/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 17 May 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/revisiting-traceroute-for-ndn/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title> Named Data Networking in Scientific Applications</title>
       <link>/talk/named-data-networking-in-scientific-applications/</link>
-      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/named-data-networking-in-scientific-applications/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title> Applying NDN to large scientific data</title>
       <link>/talk/applying-ndn-to-large-scientific-data/</link>
-      <pubDate>Wed, 16 Nov 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0700</pubDate>
       
       <guid>/talk/applying-ndn-to-large-scientific-data/</guid>
       <description></description>
@@ -88,9 +88,19 @@ retrieval, and publication access control.&lt;/p&gt;
     </item>
     
     <item>
+      <title>NDN-Science Testbed</title>
+      <link>/project/ndn-testbed/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ndn-testbed/</guid>
+      <description>&lt;p&gt;Using a NSF grant, we created a 8 node testbed that helps us better understand the challenges in large data applications. It reaches locations such as Atmospheric and Computer Science Departments at Colorado State University, LBNL, NWCS, and CalTech. The testbed was deployed with the support of ESnet. Connectivity is via 10G links with high-end machines that with 40 cores each, 128GB RAM and 48TB disk space. The testbed is also able to deploy on-demand end-to-end paths using OSCARS. The machines cumulatively host over 50TB of climate data and 10 TB Physics data that are used for research, experimentation and development of climate applications. The machines are run latest version of Fedora and have the latest NDN software installed. We are looking forward to adding several sites to the testbed, both inside and outside the US.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -366,7 +376,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>
@@ -434,7 +444,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -664,7 +674,7 @@ widgets = true
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
       <link>/post/writing-markdown-latex/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
@@ -1080,7 +1090,7 @@ Here&#39;s some important information...
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
       <link>/post/faq/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/faq/</guid>
       <description>&lt;p&gt;Common questions and answers will be listed here.&lt;/p&gt;
@@ -1133,18 +1143,9 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
     <item>
       <title> Scientific Data Applications in NDN</title>
       <link>/talk/scientific-data-applications-in-ndn/</link>
-      <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 -0700</pubDate>
       
       <guid>/talk/scientific-data-applications-in-ndn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Supporting Scientific Applications with NDN</title>
-      <link>/talk/supporting-scientific-applications-with-ndn/</link>
-      <pubDate>Sat, 17 Oct 2015 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/supporting-scientific-applications-with-ndn/</guid>
       <description></description>
     </item>
     

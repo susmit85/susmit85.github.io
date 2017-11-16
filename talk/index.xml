@@ -13,7 +13,7 @@
     <item>
       <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
       <link>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title> NDN-Android</title>
       <link>/talk/ndn-android/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-android/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title> Revisiting Traceroute for NDN</title>
       <link>/talk/revisiting-traceroute-for-ndn/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 17 May 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/revisiting-traceroute-for-ndn/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title> Named Data Networking in Scientific Applications</title>
       <link>/talk/named-data-networking-in-scientific-applications/</link>
-      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0600</pubDate>
       
       <guid>/talk/named-data-networking-in-scientific-applications/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title> Applying NDN to large scientific data</title>
       <link>/talk/applying-ndn-to-large-scientific-data/</link>
-      <pubDate>Wed, 16 Nov 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0700</pubDate>
       
       <guid>/talk/applying-ndn-to-large-scientific-data/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title> Scientific Data Applications in NDN</title>
       <link>/talk/scientific-data-applications-in-ndn/</link>
-      <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 -0700</pubDate>
       
       <guid>/talk/scientific-data-applications-in-ndn/</guid>
       <description></description>
@@ -67,7 +67,7 @@
     <item>
       <title> Supporting Scientific Applications with NDN</title>
       <link>/talk/supporting-scientific-applications-with-ndn/</link>
-      <pubDate>Sat, 17 Oct 2015 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 -0600</pubDate>
       
       <guid>/talk/supporting-scientific-applications-with-ndn/</guid>
       <description></description>
@@ -76,7 +76,7 @@
     <item>
       <title> Managing Scientific Data with Named Data Networking</title>
       <link>/talk/managing-scientific-data-with-named-data-networking/</link>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 -0600</pubDate>
       
       <guid>/talk/managing-scientific-data-with-named-data-networking/</guid>
       <description></description>
@@ -85,7 +85,7 @@
     <item>
       <title> Managing Scientific Data with NDN</title>
       <link>/talk/managing-scientific-data-with-ndn/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 -0600</pubDate>
       
       <guid>/talk/managing-scientific-data-with-ndn/</guid>
       <description></description>
@@ -94,7 +94,7 @@
     <item>
       <title> NDN for Scientific Data Applications</title>
       <link>/talk/ndn-for-scientific-data-applications/</link>
-      <pubDate>Wed, 12 Aug 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 12 Aug 2015 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-for-scientific-data-applications/</guid>
       <description></description>
@@ -103,7 +103,7 @@
     <item>
       <title> NDN-atmos</title>
       <link>/talk/ndn-atmos/</link>
-      <pubDate>Tue, 09 Sep 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-atmos/</guid>
       <description></description>
@@ -112,7 +112,7 @@
     <item>
       <title> Supporting Climate Applications over Named Data Networking (NDN)</title>
       <link>/talk/supporting-climate-app/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 -0600</pubDate>
       
       <guid>/talk/supporting-climate-app/</guid>
       <description></description>
@@ -121,7 +121,7 @@
     <item>
       <title> NDN-Fuse</title>
       <link>/talk/ndn-fuse/</link>
-      <pubDate>Mon, 07 Apr 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-fuse/</guid>
       <description></description>
@@ -130,7 +130,7 @@
     <item>
       <title> NDN for Scientific Data</title>
       <link>/talk/ndn-for-scientific-data/</link>
-      <pubDate>Mon, 12 Aug 2013 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-for-scientific-data/</guid>
       <description></description>
@@ -139,7 +139,7 @@
     <item>
       <title> NDN-traceroute</title>
       <link>/talk/ndn-traceroute/</link>
-      <pubDate>Fri, 12 Oct 2012 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 12 Oct 2012 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-traceroute/</guid>
       <description></description>
