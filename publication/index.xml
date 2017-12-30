@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>[Under Preperation] IP/NDN: An NDN Based Protocol for IP Traffic in 5G Networks</title>
+      <link>/publication/shannigrahi2017networking/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2017networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Under Preperation] NDN-SCI, A Management Framework for Large Science Data</title>
+      <link>/publication/shannigrahi2017journal/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2017journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Request aggregation, caching, and forwarding strategies for improving large climate data distribution with NDN: a case study</title>
       <link>/publication/shannigrahi2017request/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
