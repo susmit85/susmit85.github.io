@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Susmit Shannigrahi</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
@@ -142,6 +144,33 @@
       <pubDate>Fri, 12 Oct 2012 00:00:00 -0600</pubDate>
       
       <guid>/talk/ndn-traceroute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Benefit of CCN for large data</title>
+      <link>/talk/benefit-of-ccn-for-large-data/</link>
+      <pubDate>Thu, 07 Jun 2012 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/benefit-of-ccn-for-large-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Fedora Medical Spin: In search of a comprehensive solution for healthcare community</title>
+      <link>/talk/fedora-medical-spin-in-search-of-a-comprehensive-solution-for-healthcare-community/</link>
+      <pubDate>Thu, 04 Feb 2010 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/fedora-medical-spin-in-search-of-a-comprehensive-solution-for-healthcare-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Redrawing and rewriting the Fedora Distribution process</title>
+      <link>/talk/redrawing-and-rewriting-the-fedora-distribution-process/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/redrawing-and-rewriting-the-fedora-distribution-process/</guid>
       <description></description>
     </item>
     

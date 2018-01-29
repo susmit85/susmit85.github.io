@@ -8,7 +8,84 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Susmit Shannigrahi</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>I am a Ph.D. candidate in the Network Security Group at Colorado State University.
+My research focus is to design next-generation data management protocols for scientific communities that have a significant amount of data. I develop, deploy, and study scientific data management frameworks in collaboration with domain scientists. I use the deployments to drive research that helps to mitigate scientific data management problems. I am also interested in networking protocols for IoT devices and future Mobile networks.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFCs/Tech Reports</title>
+      <link>/home/tr/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/tr/</guid>
+      <description> G. White, S. Shannigrahi, C. Fan, Internet Protocol Tunneling over Content Centric Mobile Networks, ICNRG Internet Draft S. Shannigrahi, D. Massey, C. Papadopoulos, Traceroute for Named Data Networking, NDN Tech Report  </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I helped teaching the following courses, either as a teaching assistant or a guest lecturer.
+   Year Course Number Course     2017 CS557 Advanced Networking   2017 CS457 Computer Networks   2016 CS457 Computer Networks   2016 CS557 Advanced Networking   2014 CS557 Advanced Networking   2013 CS457 Computer Networks   2013 CS370 Operating Systems   2013 CS370 Operating Systems   2012 CS470DL Computer Architecture   2012 CT320 Network and System Administration   2012 Assignments for Graduate Students Using Named Data Networking over GENI   2011 CS451 Operating Systems   2011 CS451DL Operating Systems   2010 CS155/156/157 Introduction to Unix and C Programming    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
