@@ -13,6 +13,15 @@
     
     
     <item>
+      <title> Performance Evaluation of  Named Data Networking Forwarding Daemon (NFD)</title>
+      <link>/talk/performance-evaluation-of-named-data-networking-forwarding-daemon/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/performance-evaluation-of-named-data-networking-forwarding-daemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
       <link>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 -0600</pubDate>
