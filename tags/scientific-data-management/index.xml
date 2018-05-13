@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific-data-management on Susmit Shannigrahi</title>
+    <link>/tags/scientific-data-management/</link>
+    <description>Recent content in Scientific-data-management on Susmit Shannigrahi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Susmit Shannigrahi</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scientific-data-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NDN</title>
+      <link>/project/ndn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ndn/</guid>
+      <description>Named Data Networking(NDN) is a Future Internet Architecture where data in the network is accessed directly by its name rather than through the host where it resides. Naming the data allows the network to participate in operations that were not feasible before. Specifically, the network can participate in discovering and local caching of the data, merging similar requests, intelligent retrieval and more. I have been contributing to NDN codebase and applications as part of a multi-university team.</description>
+    </item>
+    
+    <item>
+      <title>NDN-SCI</title>
+      <link>/project/ndnsci/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ndnsci/</guid>
+      <description>Many scientific domains, such as climate science and High Energy Physics (HEP), have data management requirements that are not well supported by the IP network architecture. Named Data Networking (NDN) is a new network architecture whose service model is better aligned with the needs of data-oriented applications.
+NDN-SCI is the first scientific data management application designed and implemented on top of NDN. We use this application to manage climate and HEP data over a dedicated, high-performance testbed.</description>
+    </item>
+    
+    <item>
+      <title>NDN-Science Testbed</title>
+      <link>/project/ndn-testbed/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ndn-testbed/</guid>
+      <description>Using a NSF grant, we created a 8 node testbed that helps us better understand the challenges in large data applications. It reaches locations such as Atmospheric and Computer Science Departments at Colorado State University, LBNL, NWCS, and CalTech. The testbed was deployed with the support of ESnet. Connectivity is via 10G links with high-end machines that with 40 cores each, 128GB RAM and 48TB disk space. The testbed is also able to deploy on-demand end-to-end paths using OSCARS.</description>
+    </item>
+    
+  </channel>
+</rss>
