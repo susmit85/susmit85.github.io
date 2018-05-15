@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>  IP-over-ICN (IPoC) tunneling protocol</title>
+      <link>/talk/ipoc-ndn-retreat/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ipoc-ndn-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> NDN for Scientific computing</title>
+      <link>/talk/scientfic-computing-ndn-retreat/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/scientfic-computing-ndn-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Performance Evaluation of  Named Data Networking Forwarding Daemon (NFD)</title>
       <link>/talk/performance-evaluation-of-named-data-networking-forwarding-daemon/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
