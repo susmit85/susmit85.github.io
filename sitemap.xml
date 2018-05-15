@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/shannigrahi2018journal/</loc>
+      <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/ipoc-ndn-retreat/</loc>
       <lastmod>2018-05-14T00:00:00+00:00</lastmod>
     </url>
@@ -16,6 +25,15 @@
     
       <loc>/talk/scientfic-computing-ndn-retreat/</loc>
       <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/shannigrahi2018scari/</loc>
+      <lastmod>2018-04-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -79,15 +97,6 @@
     
       <loc>/talk/named-data-networking-in-scientific-applications/</loc>
       <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/shannigrahi2017journal/</loc>
-      <lastmod>2017-01-12T00:00:00+00:00</lastmod>
     </url>
     
   

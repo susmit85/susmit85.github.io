@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>NDN-SCI - Building a Large Scientific Data Management Framework using Named Data Networking</title>
+      <link>/publication/shannigrahi2018journal/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2018journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCARI: A Strategic Caching and Reservation Protocol for ICN</title>
+      <link>/publication/shannigrahi2018scari/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2018scari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bridging the ICN Deployment Gap with IPoC: An IP-over-ICN protocol for 5G Networks</title>
       <link>/publication/shannigrahi2018sigcomm/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
@@ -27,15 +45,6 @@
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/shannigrahi2018icc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NDN-SCI, A Management Framework for Large Science Data</title>
-      <link>/publication/shannigrahi2017journal/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2017journal/</guid>
       <description></description>
     </item>
     
