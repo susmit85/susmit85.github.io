@@ -15,7 +15,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
@@ -26,7 +26,7 @@ Key features:
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
@@ -45,7 +45,7 @@ Key features:
     <item>
       <title>Frequently Asked Questions (FAQ)</title>
       <link>/post/faq/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/faq/</guid>
       <description>Common questions and answers will be listed here.

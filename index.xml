@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Susmit Shannigrahi</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> Named Data Networking Strategies for Improving Large Scientific Data Transfers</title>
+      <link>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NDN-SCI - Building a Large Scientific Data Management Framework using Named Data Networking</title>
@@ -134,19 +143,6 @@
       
       <guid>/project/ndn/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://named-data.net&#34; target=&#34;_blank&#34;&gt;Named Data Networking(NDN)&lt;/a&gt; is a Future Internet Architecture where data in the network is accessed directly by its name rather than through the host where it resides. Naming the data allows the network to participate in operations that were not feasible before. Specifically, the network can participate in discovering and local caching of the data, merging similar requests, intelligent retrieval and more. I have been contributing to NDN codebase and applications as part of a multi-university team.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NDN-SCI</title>
-      <link>/project/ndnsci/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ndnsci/</guid>
-      <description>&lt;p&gt;Many scientific domains, such as climate science and High Energy Physics (HEP), have data management requirements that are not well supported by the IP network architecture. Named Data Networking (NDN) is a new network architecture whose service model is better aligned with the needs of data-oriented applications.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/named-data/ndn-atmos&#34; target=&#34;_blank&#34;&gt;NDN-SCI&lt;/a&gt; is the first scientific data management application designed and implemented on top of NDN. We use this application to manage climate and HEP data over a dedicated, high-performance testbed.  NDN-SCI utilizes NDN primitives to implement common data management operations such as publishing, search, efficient
-retrieval, and publication access control.&lt;/p&gt;
 </description>
     </item>
     
