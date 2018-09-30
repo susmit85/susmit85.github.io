@@ -47,6 +47,15 @@
     </item>
     
     <item>
+      <title>Ndn construction for big science: Lessons learned from establishing a testbed</title>
+      <link>/publication/shannigrahi2018testbed/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2018testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SCARI: A Strategic Caching and Reservation Protocol for ICN</title>
       <link>/publication/shannigrahi2018scari/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
@@ -134,16 +143,6 @@
       
       <guid>/talk/applying-ndn-to-large-scientific-data/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NDN</title>
-      <link>/project/ndn/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ndn/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://named-data.net&#34; target=&#34;_blank&#34;&gt;Named Data Networking(NDN)&lt;/a&gt; is a Future Internet Architecture where data in the network is accessed directly by its name rather than through the host where it resides. Naming the data allows the network to participate in operations that were not feasible before. Specifically, the network can participate in discovering and local caching of the data, merging similar requests, intelligent retrieval and more. I have been contributing to NDN codebase and applications as part of a multi-university team.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
