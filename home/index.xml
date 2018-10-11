@@ -28,8 +28,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I am a Ph.D. candidate in the Network Security Group at Colorado State University.
-My research focus is to design next-generation data management protocols for scientific communities that have a significant amount of data. I develop, deploy, and study scientific data management frameworks in collaboration with domain scientists. I use the deployments to drive research that helps to mitigate scientific data management problems. I am also interested in networking protocols for IoT devices and future Mobile networks.</description>
+      <description>I am a Ph.D. candidate in the Network Security Group at Colorado State University, and I expect to graduate in Fall 2018.
+I study large-scale networked systems and try to understand why creating efficient interconnects and effectively exchanging data is often very challenging despite the tremendous advancements in hardware design, network infrastructure, and software solutions. I am particularly interested in how the network and application design choices affect communication and data distribution over the Internet.</description>
     </item>
     
     <item>
