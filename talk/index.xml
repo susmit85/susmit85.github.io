@@ -13,6 +13,33 @@
     
     
     <item>
+      <title> Advancing Scientific Data Sharing, Discovery, and Security with Information Centric Networking (ICN)</title>
+      <link>/talk/ndn-science-internet2-talk/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ndn-science-internet2-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> ICN for Large Science Data</title>
+      <link>/talk/ndn-science-internet2-lightning-talk/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ndn-science-internet2-lightning-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> NDN for Data Intensive Science - SANDIE</title>
+      <link>/talk/sandie-nist/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/sandie-nist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Named Data Networking Strategies for Improving Large Scientific Data Transfers</title>
       <link>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
