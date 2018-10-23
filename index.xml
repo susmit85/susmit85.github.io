@@ -38,11 +38,56 @@
     </item>
     
     <item>
+      <title>Internet Protocol Tunneling over Content Centric Mobile Networks</title>
+      <link>/tr/ipoc/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/ipoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Future of Networking is the Future of Large Data</title>
+      <link>/thesis/phd/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/thesis/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Named Data Networking Strategies for Improving Large Scientific Data Transfers</title>
       <link>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFD Developer’s Guide</title>
+      <link>/tr/nfd/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/nfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel - Real-world ICN deployments - perspective and challenges</title>
+      <link>/tr/icn-sra/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/icn-sra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traceroute for Named Data Networking</title>
+      <link>/tr/traceroute/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/traceroute/</guid>
       <description></description>
     </item>
     
@@ -97,51 +142,6 @@
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/shannigrahi2018sigcomm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Named Data Networking Strategies for Improving Large Scientific Data Transfers</title>
-      <link>/publication/shannigrahi2018icc/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018icc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Performance Evaluation of  Named Data Networking Forwarding Daemon (NFD)</title>
-      <link>/talk/performance-evaluation-of-named-data-networking-forwarding-daemon/</link>
-      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/performance-evaluation-of-named-data-networking-forwarding-daemon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Reqest Aggregation, Caching, and Forwarding Strategies for Improving Large Climate Data Distribution with NDN: A Case Study</title>
-      <link>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> NDN-Android</title>
-      <link>/talk/ndn-android/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/ndn-android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Revisiting Traceroute for NDN</title>
-      <link>/talk/revisiting-traceroute-for-ndn/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/revisiting-traceroute-for-ndn/</guid>
       <description></description>
     </item>
     

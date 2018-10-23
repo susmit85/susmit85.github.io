@@ -32,7 +32,52 @@
     
     <url>
     
+      <loc>/tr/ipoc/</loc>
+      <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/thesis/phd/</loc>
+      <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</loc>
+      <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tr/nfd/</loc>
+      <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tr/icn-sra/</loc>
+      <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tr/traceroute/</loc>
       <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,6 +248,15 @@
     
     <url>
     
+      <loc>/project/ipoc/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/ndn/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -222,6 +276,15 @@
     <url>
     
       <loc>/project/ndn-testbed/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/sandie/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -410,6 +473,15 @@
     
     <url>
     
+      <loc>/thesis/masters/</loc>
+      <lastmod>2010-06-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/fedora-medical-spin-in-search-of-a-comprehensive-solution-for-healthcare-community/</loc>
       <lastmod>2010-02-04T00:00:00+00:00</lastmod>
     </url>
@@ -430,6 +502,16 @@
     
       <loc>/talk/redrawing-and-rewriting-the-fedora-distribution-process/</loc>
       <lastmod>2009-12-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/5g-mobile-networks/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -498,6 +580,26 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/thesis/</loc>
+      <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tr/</loc>
+      <lastmod>2018-06-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

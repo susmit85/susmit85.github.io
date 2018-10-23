@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trs on Susmit Shannigrahi</title>
+    <link>/tr/</link>
+    <description>Recent content in Trs on Susmit Shannigrahi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Susmit Shannigrahi</copyright>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internet Protocol Tunneling over Content Centric Mobile Networks</title>
+      <link>/tr/ipoc/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/ipoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFD Developer’s Guide</title>
+      <link>/tr/nfd/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/nfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel - Real-world ICN deployments - perspective and challenges</title>
+      <link>/tr/icn-sra/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/icn-sra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traceroute for Named Data Networking</title>
+      <link>/tr/traceroute/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tr/traceroute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
