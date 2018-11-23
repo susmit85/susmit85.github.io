@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ndn construction for big science: Lessons learned from establishing a testbed</title>
+      <link>/publication/shannigrahi2018testbed/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/shannigrahi2018testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Advancing Scientific Data Sharing, Discovery, and Security with Information Centric Networking (ICN)</title>
       <link>/talk/ndn-science-internet2-talk/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
@@ -115,15 +124,6 @@
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/talk/scientfic-computing-ndn-retreat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ndn construction for big science: Lessons learned from establishing a testbed</title>
-      <link>/publication/shannigrahi2018testbed/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018testbed/</guid>
       <description></description>
     </item>
     
