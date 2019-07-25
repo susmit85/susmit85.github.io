@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/ipoc/</guid>
-      <description>IPoC is a general purpose tunnel-ing protocol that enables all IP applications to utilize Information Centric Networks. We implement the IPoC protocol using Named Data Networking (NDN) semantics and using mobile communication as the driving example, show how NDN and IPoC can bring ICN benefits to 5G mobile networks by simplifying the mobility plane, introducing intelligent functionality, and reducing network complexity.
-Github Repository</description>
+      <description>IPoC: An IP-over-ICN protocol for 5G Networks</description>
     </item>
     
   </channel>
