@@ -343,7 +343,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -363,7 +363,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -372,7 +372,7 @@
     <url>
     
       <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -382,7 +382,7 @@
     <url>
     
       <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -409,7 +409,7 @@
     <url>
     
       <loc>/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -508,7 +508,7 @@
     <url>
     
       <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -517,7 +517,7 @@
     <url>
     
       <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
