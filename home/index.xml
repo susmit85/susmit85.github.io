@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Susmit Shannigrahi</title>
@@ -18,8 +18,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release</description>
     </item>
     
     <item>
@@ -28,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I am hiring Ph.D. students. If networking for big-data, designing the next-generation Internet, or 5G Mobile networks is interesting to you, please send me an email.
-My research focuses on building tools and protocols that facilliate big-data management and movement over the Internet. I study, design, and build intelligent protocols for the next-generation Internet. I utilize these protocols to simplify large science data management and introduce novel functionality that are difficult to implement today.</description>
+      <description>**I am hiring Ph.D. students. If designing the next-generation Internet, low-latency AR/VR applications, 5G mobile networks, and smart vehicular networks are interesting to you, drop me an email. Visit the group website for more details&amp;rdquo;.
+My research focuses on building tools and protocols that facilitate big-data management and movement over the Internet. I study, design, and build intelligent protocols for the next-generation Internet. I utilize these protocols to simplify large science data management and introduce novel functionality that are difficult to implement today.</description>
     </item>
     
     <item>

@@ -10,137 +10,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ndn construction for big science: Lessons learned from establishing a testbed</title>
-      <link>/publication/shannigrahi2018testbed/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018testbed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Advancing Scientific Data Sharing, Discovery, and Security with Information Centric Networking (ICN)</title>
-      <link>/talk/ndn-science-internet2-talk/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/ndn-science-internet2-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> ICN for Large Science Data</title>
-      <link>/talk/ndn-science-internet2-lightning-talk/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/ndn-science-internet2-lightning-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> NDN for Data Intensive Science - SANDIE</title>
-      <link>/talk/sandie-nist/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/sandie-nist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet Protocol Tunneling over Content Centric Mobile Networks</title>
-      <link>/tr/ipoc/</link>
+      <title>Theses</title>
+      <link>/thesis/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tr/ipoc/</guid>
+      <guid>/thesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Future of Networking is the Future of Large Data</title>
-      <link>/thesis/phd/</link>
+      <title>Trs</title>
+      <link>/tr/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/thesis/phd/</guid>
+      <guid>/tr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title> Named Data Networking Strategies for Improving Large Scientific Data Transfers</title>
-      <link>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/named_data_networking_strategies_for_improving_large_scientific_data_transfers/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NFD Developer’s Guide</title>
-      <link>/tr/nfd/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tr/nfd/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Panel - Real-world ICN deployments - perspective and challenges</title>
-      <link>/tr/icn-sra/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tr/icn-sra/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Traceroute for Named Data Networking</title>
-      <link>/tr/traceroute/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tr/traceroute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NDN-SCI - Building a Large Scientific Data Management Framework using Named Data Networking</title>
-      <link>/publication/shannigrahi2018journal/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>  IP-over-ICN (IPoC) tunneling protocol</title>
-      <link>/talk/ipoc-ndn-retreat/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/ipoc-ndn-retreat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> NDN for Scientific computing</title>
-      <link>/talk/scientfic-computing-ndn-retreat/</link>
-      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/scientfic-computing-ndn-retreat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCARI: A Strategic Caching and Reservation Protocol for ICN</title>
-      <link>/publication/shannigrahi2018scari/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018scari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bridging the ICN Deployment Gap with IPoC: An IP-over-ICN protocol for 5G Networks</title>
-      <link>/publication/shannigrahi2018sigcomm/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/shannigrahi2018sigcomm/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     

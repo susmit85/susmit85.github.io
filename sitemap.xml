@@ -15,7 +15,6 @@
     
       <loc>/</loc>
       <lastmod>2018-11-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -70,7 +69,6 @@
     
       <loc>/thesis/</loc>
       <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -80,7 +78,6 @@
     
       <loc>/tr/</loc>
       <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -187,15 +184,6 @@
     
     <url>
     
-      <loc>/talk/reqest-aggregation-caching-and-forwarding-strategies-for-improving-large-climate-data-distribution-with-ndn-a-case-study/</loc>
-      <lastmod>2017-09-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/ndn-android/</loc>
       <lastmod>2017-09-28T00:00:00+00:00</lastmod>
     </url>
@@ -268,6 +256,15 @@
     
     <url>
     
+      <loc>/tags/</loc>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/applying-ndn-to-large-scientific-data/</loc>
       <lastmod>2016-11-16T00:00:00+00:00</lastmod>
     </url>
@@ -279,7 +276,6 @@
     
       <loc>/tags/5g-mobile-networks/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -325,7 +321,6 @@
     
       <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -342,19 +337,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/scientific-data-management/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -373,7 +357,6 @@
     
       <loc>/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -507,7 +490,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-05:00</lastmod>
     </url>
     
@@ -516,9 +499,8 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
+      <loc>/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -571,15 +553,6 @@
     
     <url>
     
-      <loc>/talk/fedora-medical-spin-in-search-of-a-comprehensive-solution-for-healthcare-community/</loc>
-      <lastmod>2010-02-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/ray2010fast/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -599,7 +572,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
     </url>
     
   

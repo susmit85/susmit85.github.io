@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="generator" content="Hugo 0.69.0" />
   <meta name="author" content="Susmit Shannigrahi">
-  <meta name="description" content="Assistant Profesor at Tennessee Technological University">
+  <meta name="description" content="Assistant Professor at Tennessee Technological University">
 
   
   
@@ -267,50 +267,32 @@
 
       <div class="article-style" itemprop="articleBody">
         <p>Common questions and answers will be listed here.</p>
-
 <p><strong>I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site</strong></p>
-
 <p>Academic is a website <em>framework</em> rather than just a <em>theme</em>. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the <code>themes/academic/exampleSite</code> folder and then compare the configuration parameters in the Example Site&rsquo;s <code>config.toml</code> and content files with the files in your existing site.</p>
-
 <p><strong>Hosting your site with Netlify or Cloudflare and experience strange behavior such as filters not working?</strong></p>
-
 <p>Disable post-processing steps such as <em>minification</em> in your Netlify/Cloudflare admin panel.</p>
-
 <p><strong>Publications and other content are not sorted by newest first</strong></p>
-
-<p>Hugo/TOML require that the value for the <code>date</code> field should be in <a href="https://github.com/toml-lang/toml#local-date-time" target="_blank">TOML format</a>, as per frontmatter of the <code>content/publication/</code> files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.</p>
-
+<p>Hugo/TOML require that the value for the <code>date</code> field should be in <a href="https://github.com/toml-lang/toml#local-date-time">TOML format</a>, as per frontmatter of the <code>content/publication/</code> files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.</p>
 <p><strong>Issue parsing LaTeX in publication abstract</strong></p>
-
 <p>Let&rsquo;s consider the following LaTeX which fails to parse correctly:</p>
-
 <pre><code>abstract = &quot;${O(d_{\max})}$&quot;
 </code></pre>
-
 <p>This is a side effect of Academic and Hugo attempting to parse TOML, Markdown and LaTeX content in the abstract. The solution is to:</p>
-
 <ul>
 <li>escape each LaTeX backslash (<code>\</code>) with an extra backslash, yielding <code>\\</code></li>
 <li>escape each LaTeX underscore (<code>_</code>) with two backslashes, yielding <code>\\_</code>.</li>
 </ul>
-
 <p>Hence, editing the above example, we get:</p>
-
 <pre><code>abstract = &quot;${O(d\\_{\\max})}$&quot;
 </code></pre>
-
 <p><strong>Cannot achieve line break in multiline equation (LaTeX/Mathjax)</strong></p>
-
 <p><code>\\</code> usually achieves a line break in a multiline LaTeX/Mathjax equation, but due to Hugo&rsquo;s Markdown parser it doesn&rsquo;t.</p>
-
 <p>Solution: use 6 backslashes for a line break, for example:</p>
-
 <pre><code>$$\begin{eqnarray} 
 y &amp;=&amp; 1+1   \\\\\\
 &amp;=&amp; 2
 \end{eqnarray}$$
 </code></pre>
-
       </div>
 
       
@@ -345,7 +327,7 @@ y &amp;=&amp; 1+1   \\\\\\
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2018 Susmit Shannigrahi &middot; 
+      © 2018 Susmit Shannigrahi &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
